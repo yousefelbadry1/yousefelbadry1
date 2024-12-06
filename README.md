@@ -21,6 +21,7 @@
 
 ### 🛠 &nbsp;Tools
 ![Questasim](https://img.shields.io/badge/-Questasim-05122A?style=flat&logo=Questasim)&nbsp;
+![Modelsim](https://img.shields.io/badge/-Modelsim-05122A?style=flat&logo=Modelsim)&nbsp;
 ![Vivado](https://img.shields.io/badge/-Vivado-05122A?style=flat&logo=Vivado)&nbsp;
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=Matlab)&nbsp;
 ![Simulink](https://img.shields.io/badge/-Simulink-05122A?style=flat&logo=Simulink)&nbsp;
