@@ -24,8 +24,11 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog%20-05122A?style=flat&logo=Verilog)&nbsp;
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog%20-05122A?style=flat&logo=SystemVerilog)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Questasim](https://img.shields.io/badge/-Questasim-05122A?style=flat&logo=Questasim)&nbsp;
+![Vivado](https://img.shields.io/badge/-Vivado-05122A?style=flat&logo=Vivado)&nbsp;
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=Matlab)&nbsp;
+![Multisim](https://img.shields.io/badge/-Multisim-05122A?style=flat&logo=Multisim)&nbsp;
+
 
 
 
