@@ -30,11 +30,7 @@
 ![Multisim](https://img.shields.io/badge/-Multisim-05122A?style=flat&logo=Multisim)&nbsp;
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelbadry1&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=30" alt="most used languages" />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelbadry1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefelbadry1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefelbadry1&style=for-the-badge">
-</a>
 
