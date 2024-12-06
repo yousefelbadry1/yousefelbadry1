@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 ![verilog](https://img.shields.io/badge/-verilog%20-05122A?style=flat&logo=verilog)&nbsp;
-![Systemverilog](https://img.shields.io/badge/-verilog%20-05122A?style=flat&logo=verilog)&nbsp;
+![Systemverilog](https://img.shields.io/badge/-Systemverilog%20-05122A?style=flat&logo=Systemverilog)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
