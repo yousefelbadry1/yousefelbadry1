@@ -19,15 +19,18 @@
 <a href="https://linkedin.com/in/yousefelbadry" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Elbadry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/youssef_el_badry?igsh=bWIzZWVjd21kdWE3&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Elbadry-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech
-![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
-![Verilog](https://img.shields.io/badge/-Verilog%20-05122A?style=flat&logo=Verilog)&nbsp;
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog%20-05122A?style=flat&logo=SystemVerilog)&nbsp;
+### 🛠 &nbsp;Tools
 ![Questasim](https://img.shields.io/badge/-Questasim-05122A?style=flat&logo=Questasim)&nbsp;
 ![Vivado](https://img.shields.io/badge/-Vivado-05122A?style=flat&logo=Vivado)&nbsp;
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=Matlab)&nbsp;
+![Simulink](https://img.shields.io/badge/-Simulink-05122A?style=flat&logo=Simulink)&nbsp;
 ![Multisim](https://img.shields.io/badge/-Multisim-05122A?style=flat&logo=Multisim)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
+![ADS](https://img.shields.io/badge/-ADS-05122A?style=flat&logo=ADS)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=VSCode)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
+![emu8086](https://img.shields.io/badge/-emu8086-05122A?style=flat&logo=emu8086)&nbsp;
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelbadry1&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=30" alt="most used languages" />
