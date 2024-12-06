@@ -22,8 +22,8 @@
 ### 🛠 &nbsp;Tech
 ![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
-![verilog](https://img.shields.io/badge/-verilog%20-05122A?style=flat&logo=verilog)&nbsp;
-![Systemverilog](https://img.shields.io/badge/-Systemverilog%20-05122A?style=flat&logo=Systemverilog)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog%20-05122A?style=flat&logo=Verilog)&nbsp;
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog%20-05122A?style=flat&logo=SystemVerilog)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
